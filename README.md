@@ -1,2 +1,3 @@
-# ola mundo2
- curso em video
+# olá mundo
+ curso em video 2020
+ repositório criado em aula
